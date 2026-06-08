@@ -1,0 +1,17 @@
+========================================
+          LOG ANALYSIS REPORT           
+========================================
+Date of analysis: 2026-06-08 12:25:01
+Log file name: /home/sachin/scripts/sample.log
+Total lines processed: 14
+Total error count: 9
+
+--- Top 5 Error Messages ---
+      4 ERROR: Connection timeout
+      2 ERROR: Disk full
+      1 ERROR: Null pointer exception
+
+--- Critical Events (with line numbers) ---
+line: 4:2026-06-08 10:00:10 CRITICAL: Database connection lost
+line: 9:2026-06-08 10:00:35 CRITICAL: Security breach attempt
+========================================

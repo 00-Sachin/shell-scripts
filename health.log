@@ -1,0 +1,84 @@
+ calling the main function 
+.................................................
+Hostname and OS info
+.................................................
+ Static hostname: sachin-H510M-K-V2
+       Icon name: computer-desktop
+         Chassis: desktop 🖥️
+      Machine ID: 9549100533e34ea0b94b40185d5a52ad
+         Boot ID: 8df2945981cf4e5ea859c5b6b70c5b93
+Operating System: Ubuntu 24.04.4 LTS
+          Kernel: Linux 6.17.0-35-generic
+    Architecture: x86-64
+ Hardware Vendor: Gigabyte Technology Co., Ltd.
+  Hardware Model: H510M K V2
+Firmware Version: F4
+   Firmware Date: Mon 2024-08-26
+    Firmware Age: 1y 9month 1w 4d
+--Checking System Uptime Status-----
+ 16:32:01 up  1:07,  1 user,  load average: 0.22, 0.22, 0.21
+-----------------------------
+Disk Usage (Top 5 Commands)
+-----------------------------
+tmpfs           7.8G  206M  7.6G   3% /dev/shm
+tmpfs           5.0M   16K  5.0M   1% /run/lock
+tmpfs           1.6G  2.3M  1.6G   1% /run
+tmpfs           1.6G  120K  1.6G   1% /run/user/1000
+Filesystem      Size  Used Avail Use% Mounted on
+-----------------------------
+Ram Usage(Top 5 Commands)
+-----------------------------
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       2.4Gi        11Gi       245Mi       2.0Gi        13Gi
+Swap:          4.0Gi          0B       4.0Gi
+____________________________
+Cpu Usage info
+____________________________
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3019 sachin    20   0   49.4g 687684 516700 S   9.1   4.2   1:13.73 chrome
+   5324 sachin    20   0   23176   5584   3436 R   9.1   0.0   0:00.02 top
+      1 root      20   0   23532  14724   9436 S   0.0   0.1   0:02.80 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+ calling the main function 
+.................................................
+Hostname and OS info
+.................................................
+ Static hostname: sachin-H510M-K-V2
+       Icon name: computer-desktop
+         Chassis: desktop 🖥️
+      Machine ID: 9549100533e34ea0b94b40185d5a52ad
+         Boot ID: 8df2945981cf4e5ea859c5b6b70c5b93
+Operating System: Ubuntu 24.04.4 LTS
+          Kernel: Linux 6.17.0-35-generic
+    Architecture: x86-64
+ Hardware Vendor: Gigabyte Technology Co., Ltd.
+  Hardware Model: H510M K V2
+Firmware Version: F4
+   Firmware Date: Mon 2024-08-26
+    Firmware Age: 1y 9month 1w 4d
+--Checking System Uptime Status-----
+ 16:33:01 up  1:08,  1 user,  load average: 0.09, 0.18, 0.20
+-----------------------------
+Disk Usage (Top 5 Commands)
+-----------------------------
+tmpfs           7.8G  194M  7.6G   3% /dev/shm
+tmpfs           5.0M   16K  5.0M   1% /run/lock
+tmpfs           1.6G  2.3M  1.6G   1% /run
+tmpfs           1.6G  120K  1.6G   1% /run/user/1000
+Filesystem      Size  Used Avail Use% Mounted on
+-----------------------------
+Ram Usage(Top 5 Commands)
+-----------------------------
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       2.4Gi        11Gi       238Mi       2.0Gi        13Gi
+Swap:          4.0Gi          0B       4.0Gi
+____________________________
+Cpu Usage info
+____________________________
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5365 sachin    20   0   23176   5592   3444 R  16.7   0.0   0:00.03 top
+      1 root      20   0   23532  14724   9436 S   0.0   0.1   0:02.81 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
